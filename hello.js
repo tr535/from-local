@@ -1,5 +1,5 @@
 const a=()=>{
-return 7;
+alert("7");
 }
 const b=()=>{
 
