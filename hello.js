@@ -5,6 +5,6 @@ const b=()=>{
 alert("hi")
 }
 const c=()=>{
-    console.log("ccc");
+    console.log("function c");
     
 }
