@@ -15,6 +15,7 @@ const d=()=>{
 }
 
 
-const e=()=>{
-    alert("e")
+const f=()=>{
+    console.log("f");
+    
 }
